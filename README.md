@@ -9,3 +9,18 @@ It understandable to small children. The existing parts base has been reworked a
 CrazyKnob is fully compatible with NeuRobot. 
 Therefore, you can consider CrazyKnob as an addition to NeuRobot or NeuRobot as an addition to CrazyKnob.
 
+Constructor have next line
+1. Base
+this is only constructor. Easy, safety. For understading other part need learn to play with this part. This is element base.
+
+2. Mechanic
+was added bearings, gears, wheels and other mechanic part
+
+3. Robotic
+This part is similar as NeuRobot. But I try use cheaper Chinese components and more focused on school children than students
+
+4. Flex
+Flexibale component. Printed with flexible plastic
+
+5. ExtendedKit
+component that was developed but not included in other part
