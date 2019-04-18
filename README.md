@@ -1,4 +1,4 @@
-# CrazyKnob
+# CrazyKnobs
 This is children's developmental constructor for children from 1 to 100 years old
 Initially, I wanted to complement the NeuRobot project
 https://www.thingiverse.com/thing:1378603
